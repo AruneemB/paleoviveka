@@ -40,7 +40,7 @@ yarn-error.log*
 
 # project docs (local only)
 PALEOVIVEKA_SPEC.md
-PALEOVIVEKA_INSIGHTS.md
+PALEOVIVEKA_INSIGHTS.MD
 
 # vercel
 .vercel
